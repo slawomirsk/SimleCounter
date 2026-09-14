@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total">"Łącznie:"</string>string>
+    <string name="kg">kg</string>
+    <string name="EnterWeight">Wpisz masę sztangi w kg.</string>
+    <string name="AddToTotal">Dodaj do łącznej masy.</string>
+    <string name="repeats">powtórzeń</string>
+    <string name="add">Dodaj</string>
+    <string name="reset">Reset powtórzeń</string>
+
+</resources>
